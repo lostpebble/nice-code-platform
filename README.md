@@ -83,7 +83,7 @@ not just the proposed solution — it helps us find the best fit across the libr
 
 **Please do not report security vulnerabilities in public issues.** Instead, disclose them
 privately by emailing the maintainer or using GitHub's
-[private vulnerability reporting](../../security/advisories/new) *(if enabled)*.
+[private vulnerability reporting](../../security/advisories/new)
 
 ---
 
